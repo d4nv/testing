@@ -5,4 +5,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     // main code
+    // feature 1 added
 }
